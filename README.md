@@ -1,4 +1,3 @@
-由于论文曾经历过一次大幅修改，方法和数据均有所更新，因此此前上传的代码与最新版本的论文内容不完全一致。目前，作者正在对与论文对应的代码进行整理并将尽快上传。如有紧急需求，可通过邮箱 3518267853@qq.com 与作者联系获取代码。
+model.py和test.py的数据均来源于site_info下的site_info_train.csv站点，site_info_test.csv的站点是用来进行数据产品的独立验证，请不要混淆。
 
-
-Due to a major revision of the paper, which involved updates to both the methodology and data, the previously uploaded code is no longer fully consistent with the latest version of the paper. The updated code corresponding to the current version of the paper is being organized and will be uploaded soon. If you need the code urgently, please contact the author via email at 3518267853@qq.com.
+The data in model.py and test.py are both sourced from the sites listed in site_info_train.csv under site_info. The sites in site_info_test.csv are used for independent validation of the data product. Please do not confuse the two.
